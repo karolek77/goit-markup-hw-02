@@ -81,9 +81,9 @@ a {
 }
 .btn-service:hover,
 .btn-service:focus {
-  color: #ffffff;
-  background-color: fuchsia;
-  border-color: fuchsia;
+  color: var(--background-color);
+  background-color: var(--Selection-color);
+  border-color: var(--Selection-color);
 }
 
 .text-title {
